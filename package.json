@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/continuous-software/42-cent-util",
   "devDependencies": {
-    "mocha": "^2.0.1"
+    "mocha": "^5.1.1"
   }
 }
